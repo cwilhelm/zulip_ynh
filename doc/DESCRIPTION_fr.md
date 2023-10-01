@@ -1,0 +1,1 @@
+Zulip est un outil de collaboration d'équipe open source avec un fil de discussion thématique unique qui combine le meilleur du courrier électronique et du chat pour rendre le travail à distance productif et agréable. Zulip est la seule application de chat d'équipe moderne conçue pour les conversations en direct et asynchrones.
